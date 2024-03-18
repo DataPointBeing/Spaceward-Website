@@ -2,8 +2,6 @@
 title: Our Team
 ---
 
-# Team & Contact Information
-
 ## Tech Team
 
 ### Justin Smith
