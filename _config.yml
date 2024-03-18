@@ -1,3 +1,5 @@
-theme: jekyll-theme-minima
+theme: minima
+minima:
+  skin: solarized-light
 title: "Spaceward - Game Site"
 description: "Official site for Team Two Pow-Six's IMGD 4000/4500 project."
