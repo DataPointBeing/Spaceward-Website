@@ -1,6 +1,10 @@
 ---
-title: Our Team
+title: Overview
 ---
+
+## Treatment
+
+[View our treatment document here.](/treatment.pdf)
 
 ## Tech Team
 
