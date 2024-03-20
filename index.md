@@ -3,8 +3,10 @@ title: Overview
 ---
 
 ## Treatment
-
+\
 [View our treatment document here.](/treatment.pdf)
+\
+---
 
 ## Tech Team
 
@@ -28,7 +30,7 @@ Game Logic Programmer
 
 [zprobinson@wpi.edu](mailto:zprobinson@wpi.edu)
 
----
+\
 
 ## Art Team
 
