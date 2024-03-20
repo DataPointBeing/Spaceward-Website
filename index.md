@@ -30,8 +30,8 @@ Game Logic and Graphics Programmer
 Game Logic Programmer
 
 [zprobinson@wpi.edu](mailto:zprobinson@wpi.edu)
-\
-\
+<br>
+<br>
 ## Art Team
 
 ### Michael Weideman
