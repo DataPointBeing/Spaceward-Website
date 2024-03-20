@@ -2,8 +2,7 @@
 title: Overview
 ---
 
-## Treatment
-\
+## Treatments
 [View our treatment document here.](/treatment.pdf)
 \
 \
