@@ -11,7 +11,7 @@ title: Overview
 ## Tech Team
 
 ### Justin Smith
-Tech Team Lead and Level Developer
+Team Lead and Level Developer
 
 [jmsmith2@wpi.edu](mailto:jmsmith2@wpi.edu)
 
