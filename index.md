@@ -1,5 +1,7 @@
 ---
+layout: home
 title: Overview
+list_title: Development Updates
 ---
 
 ## Treatment
