@@ -5,6 +5,11 @@ title: Art Portfolio
 
 ## Michael Weideman
 
+![](portfolio/michael/SAMPLE IMAGE.png)
+
+SAMPLE IMAGE BLOCK - *Michael Weideman*
+<br><br>
+
 
 ## Ethan Chen
 
@@ -120,6 +125,11 @@ Splines (Pipes & Tracks) - *Ethan Chen*
 
 
 ## Mingliang Wang
+
+![](portfolio/mingliang/SAMPLE IMAGE.png)
+
+SAMPLE IMAGE BLOCK - *Mingliang Wang*
+<br><br>
 
 
 \
