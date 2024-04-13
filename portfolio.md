@@ -5,17 +5,17 @@ title: Art Portfolio
 
 ## Michael Weideman
 
-![](portfolio/michael/Progress1.png)
+![](portfolio/michael/Progress1.PNG)
 
 Player Character Model: Sculpt Progress - *Michael Weideman*
 <br><br>
 
-![](portfolio/michael/rigged.png)
+![](portfolio/michael/rigged.PNG)
 
 Player Character Model: Rigging - *Michael Weideman*
 <br><br>
 
-![](portfolio/michael/textured.png)
+![](portfolio/michael/textured.PNG)
 
 Player Character Model: Texturing - *Michael Weideman*
 <br><br>
