@@ -5,9 +5,19 @@ title: Art Portfolio
 
 ## Michael Weideman
 
-![](portfolio/michael/SAMPLE IMAGE.png)
+![](portfolio/michael/Progress1.png)
 
-SAMPLE IMAGE BLOCK - *Michael Weideman*
+Player Character Model: Sculpt Progress - *Michael Weideman*
+<br><br>
+
+![](portfolio/michael/rigged.png)
+
+Player Character Model: Rigging - *Michael Weideman*
+<br><br>
+
+![](portfolio/michael/textured.png)
+
+Player Character Model: Texturing - *Michael Weideman*
 <br><br>
 
 
