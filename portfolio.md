@@ -116,6 +116,7 @@ Player Model Sheet - *Ethan Chen*
 ![](portfolio/ethan/Spline Pipes Tracks (Ethan).webp)
 
 Splines (Pipes & Tracks) - *Ethan Chen*
+<br><br>
 
 
 ## Mingliang Wang
