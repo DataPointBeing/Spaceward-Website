@@ -138,7 +138,7 @@ Splines (Pipes & Tracks) - *Ethan Chen*
 
 ![](portfolio/mingliang/SAMPLE IMAGE.png)
 
-SAMPLE IMAGE BLOCK - *Mingliang Wang*
+{Template for portfolio entries} - *Mingliang Wang*
 <br><br>
 
 
