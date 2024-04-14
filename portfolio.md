@@ -133,6 +133,20 @@ Player Model Sheet - *Ethan Chen*
 Splines (Pipes & Tracks) - *Ethan Chen*
 <br><br>
 
+![](portfolio/ethan/AirshipModel.webp)
+
+Airship: Model - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/AirshipTextured.webp)
+
+Airship: Textured Materials - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/AirshipAnimated.gif)
+
+Airship: Idle Animation - *Ethan Chen*
+<br><br>
 
 ## Mingliang Wang
 
