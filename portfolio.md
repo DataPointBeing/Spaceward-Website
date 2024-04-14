@@ -142,7 +142,7 @@ Greybox - *Mingliang Wang*
 {Template for portfolio entries} - *Mingliang Wang*
 <br><br>
 
-![](portfolio/mingliang/UI_Anim.mp4)
+![](portfolio/mingliang/UI.gif)
 
 UI & Animation - *Mingliang Wang*
 <br><br>
@@ -154,7 +154,7 @@ Rotrating Battery SpritSheet - *Mingliang Wang*
 <br><br>
 
 
-![](portfolio/mingliang/MenuUI_1.png)
+![](portfolio/mingliang/MenuUI_1.jpg)
 
 UI Background - *Mingliang Wang*
 <br><br>
