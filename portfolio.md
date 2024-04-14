@@ -139,7 +139,6 @@ Splines (Pipes & Tracks) - *Ethan Chen*
 ![](portfolio/mingliang/Greybox.png)
 
 Greybox - *Mingliang Wang*
-{Template for portfolio entries} - *Mingliang Wang*
 <br><br>
 
 ![](portfolio/mingliang/UI.gif)
@@ -150,7 +149,7 @@ UI & Animation - *Mingliang Wang*
 
 ![](portfolio/mingliang/B2.png)
 
-Rotrating Battery SpritSheet - *Mingliang Wang*
+Rotrating Battery SpriteSheet - *Mingliang Wang*
 <br><br>
 
 
