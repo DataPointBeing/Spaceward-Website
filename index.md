@@ -10,8 +10,8 @@ list_title: Development Updates
 \
 ---
 
-## Alpha
-[Download our alpha here!](https://github.com/DataPointBeing/Spaceward/releases/tag/Alpha)
+## Builds
+[View and download our game here.](/builds.md)
 \
 \
 ---
