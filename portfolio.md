@@ -148,6 +148,83 @@ Airship: Textured Materials - *Ethan Chen*
 Airship: Idle Animation - *Ethan Chen*
 <br><br>
 
+![](portfolio/ethan/Leaf Texture.png)
+
+Leaf Texture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Tree Modeling (Poly).png)
+
+Tree Model (Polygons) - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Tree Modeling (no modifiers).png)
+
+Tree Model (without modifiers) - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Generative Tree Model.png)
+
+Tree Model - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Trees in Engine.png)
+
+Tree Model (in Engine) - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Generative Bush.png)
+
+Bush Model - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Bushes in Engine.png)
+
+Bush Model (in Engine) - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Platforms 2nd Pass.png)
+
+Rock Platform Remesh Process - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (Start).png)
+
+Rock Pillar Remesh Start - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (End).png)
+
+Rock Pillar Remesh End - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (End).png)
+
+Rock Pillar Remesh End - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Metal Pipe Retexture.png)
+
+Metal Pipe Retexture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Metal Plate Retexture.png)
+
+Metal Plate Retexture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Remodeled Track Segment.png)
+
+Remodeled Track Segment - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Island Remeshed.png)
+
+Overview of Remeshed Island - *Ethan Chen*
+<br><br>
+
 ## Mingliang Wang
 
 ![](portfolio/mingliang/Greybox.png)
