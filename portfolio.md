@@ -225,6 +225,88 @@ Remodeled Track Segment - *Ethan Chen*
 Overview of Remeshed Island - *Ethan Chen*
 <br><br>
 
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Battery_Collect.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Battery Collect SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/BouncePad_Sprung.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Bounce Pad SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Gear_Collect.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Gear Collect SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Dash.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Dash SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_DoubleJump.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Double-Jump SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Jump.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Jump SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Movement_Upgrade.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Movement Upgrade SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Ship_Repair.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Ship Repair SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Victory.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Victory SFX - *Ethan Chen*
+<br><br>
+
+
+<audio controls="controls">
+  <source type="audio/ogg" src="portfolio/ethan/cave_theme.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Cave Music - *Ethan Chen*
+<br><br>
+
+
 ## Mingliang Wang
 
 ![](portfolio/mingliang/Greybox.png)
