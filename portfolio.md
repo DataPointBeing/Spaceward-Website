@@ -158,7 +158,7 @@ Leaf Texture - *Ethan Chen*
 Tree Model (Polygons) - *Ethan Chen*
 <br><br>
 
-![](portfolio/ethan/Tree Modeling (no modifiers).png)
+![](portfolio/ethan/Tree modeling (no modifiers).png)
 
 Tree Model (without modifiers) - *Ethan Chen*
 <br><br>
