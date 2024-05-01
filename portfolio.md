@@ -148,6 +148,165 @@ Airship: Textured Materials - *Ethan Chen*
 Airship: Idle Animation - *Ethan Chen*
 <br><br>
 
+![](portfolio/ethan/Leaf Texture.png)
+
+Leaf Texture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Tree Modeling (Poly).png)
+
+Tree Model (Polygons) - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Tree modeling (no modifiers).png)
+
+Tree Model (without modifiers) - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Generative Tree Model.png)
+
+Tree Model - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Trees in Engine.png)
+
+Tree Model (in Engine) - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Generative Bush.png)
+
+Bush Model - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Bushes in Engine.png)
+
+Bush Model (in Engine) - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Platforms 2nd Pass.png)
+
+Rock Platform Remesh Process - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (Start).png)
+
+Rock Pillar Remesh Start - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (End).png)
+
+Rock Pillar Remesh End - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Rock Pillar Remodel (End).png)
+
+Rock Pillar Remesh End - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Metal Pipe Retexture.png)
+
+Metal Pipe Retexture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Metal Plate Retexture.png)
+
+Metal Plate Retexture - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Remodeled Track Segment.png)
+
+Remodeled Track Segment - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Island Remeshed.png)
+
+Overview of Remeshed Island - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Battery_Collect.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Battery Collect SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/BouncePad_Sprung.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Bounce Pad SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Gear_Collect.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Gear Collect SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Dash.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Dash SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_DoubleJump.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Double-Jump SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Jump.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Jump SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Player_Movement_Upgrade.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Player Movement Upgrade SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Ship_Repair.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Ship Repair SFX - *Ethan Chen*
+<br><br>
+
+<audio controls="controls">
+  <source type="audio/wav" src="portfolio/ethan/Victory.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Victory SFX - *Ethan Chen*
+<br><br>
+
+
+<audio controls="controls">
+  <source type="audio/ogg" src="portfolio/ethan/cave_theme.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Cave Music - *Ethan Chen*
+<br><br>
+
+
 ## Mingliang Wang
 
 ![](portfolio/mingliang/Greybox.png)
