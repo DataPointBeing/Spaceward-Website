@@ -329,7 +329,81 @@ Rotrating Battery SpriteSheet - *Mingliang Wang*
 ![](portfolio/mingliang/MenuUI_1.jpg)
 
 UI Background - *Mingliang Wang*
-<br><br>
+<br/><br/>
+
+
+![](portfolio/mingliang/Wall_pr_1.png)
+
+Factory Wall & Roof - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/Win_1.png)
+
+Wood Window - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/Gate_1.png)
+
+ - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/steel sup.png)
+
+Roof Support - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/roof.png)
+
+Rusty Steel Support - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/chain.png)
+
+Steel Chain - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/Lift.png)
+
+Chain Block - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/shock.png)
+
+Textured Factory - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/TF_ue_1.png)
+![](portfolio/mingliang/TF_ue_3.png)
+
+Factory in UE - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/TF_ue_3.png)
+
+ - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/Cave_2.png)
+
+Grebox of Cave Level - *Mingliang Wang*
+<br/><br/>
+
+
+![](portfolio/mingliang/cave_pre.png)
+
+Added materials to cave walls & adjusted Light - *Mingliang Wang*
+<br/><br/>
+
 
 \
 \
