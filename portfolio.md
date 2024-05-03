@@ -43,7 +43,7 @@ Main Island Props - *Ethan Chen*
 Main Island Stage (Terrain, Props, Landscape) - *Ethan Chen*
 <br><br>
 
-<video width="320" height="240" controls>
+<video width="600" height="600" controls>
   <source src="portfolio/ethan/InteractablesAnimated.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -51,7 +51,7 @@ Your browser does not support the video tag.
 Interactables - *Ethan Chen*
 <br><br>
 
-<video width="320" height="240" controls>
+<video width="600" height="600" controls>
   <source src="portfolio/ethan/AirshipIdle.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -236,10 +236,6 @@ Metal Plate Retexture - *Ethan Chen*
 Remodeled Track Segment - *Ethan Chen*
 <br><br>
 
-![](portfolio/ethan/Island Remeshed.png)
-
-Main Island Terrain & Props - *Ethan Chen*
-<br><br>
 
 <audio controls="controls">
   <source type="audio/wav" src="portfolio/ethan/Battery_Collect.wav"></source>
@@ -320,6 +316,14 @@ Victory SFX - *Ethan Chen*
 </audio>
 
 Cave Music - *Ethan Chen*
+<br><br>
+
+<video width="600" height="600" controls>
+  <source src="portfolio/ethan/PlayerAnimationReel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Player Animations - *Ethan Chen*
 <br><br>
 
 
