@@ -32,6 +32,32 @@ Level Theme - *Ethan Chen*
 <br><br>
 
 
+![](portfolio/ethan/Island_Props.png)
+
+Main Island Props - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Island_Stage.png)
+
+Main Island Stage (Terrain, Props, Landscape) - *Ethan Chen*
+<br><br>
+
+<video width="320" height="240" controls>
+  <source src="portfolio/ethan/InteractablesAnimated.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Interactables - *Ethan Chen*
+<br><br>
+
+<video width="320" height="240" controls>
+  <source src="portfolio/ethan/AirshipIdle.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Airship - *Ethan Chen*
+<br><br>
 
 
 ![](portfolio/ethan/Concep tIsland Geometry (Ethan).png)
