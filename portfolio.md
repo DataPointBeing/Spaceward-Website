@@ -32,16 +32,6 @@ Level Theme - *Ethan Chen*
 <br><br>
 
 
-![](portfolio/ethan/Battery Animation (Ethan).gif)
-
-Battery Animation - *Ethan Chen*
-<br><br>
-
-
-![](portfolio/ethan/Battery Rig - Materials (Ethan).webp)
-
-Battery Rig: Materials - *Ethan Chen*
-<br><br>
 
 
 ![](portfolio/ethan/Concep tIsland Geometry (Ethan).png)
@@ -67,6 +57,21 @@ Concept: Island Cave - *Ethan Chen*
 Concept: Island Platforming notes - *Ethan Chen*
 <br><br>
 
+![](portfolio/ethan/Interactables Design (Ethan).png)
+
+Interactables Design - *Ethan Chen*
+<br><br>
+
+![](portfolio/ethan/Battery Animation (Ethan).gif)
+
+Battery Animation - *Ethan Chen*
+<br><br>
+
+
+![](portfolio/ethan/Battery Rig - Materials (Ethan).webp)
+
+Battery Rig: Materials - *Ethan Chen*
+<br><br>
 
 ![](portfolio/ethan/Gear Animation (Ethan).gif)
 
@@ -83,12 +88,6 @@ Gear Rig: Materials - *Ethan Chen*
 ![](portfolio/ethan/Gear Rig - Skeleton and Skinning (Ethan).webp)
 
 Gear Rig: Skeleton and Skinning - *Ethan Chen*
-<br><br>
-
-
-![](portfolio/ethan/Interactables Design (Ethan).png)
-
-Interactables Design - *Ethan Chen*
 <br><br>
 
 
@@ -187,22 +186,13 @@ Bush Model (in Engine) - *Ethan Chen*
 
 ![](portfolio/ethan/Rock Platforms 2nd Pass.png)
 
-Rock Platform Remesh Process - *Ethan Chen*
+Rock Platform Remesh (Bottom Left) - *Ethan Chen*
 <br><br>
 
-![](portfolio/ethan/Rock Pillar Remodel (Start).png)
-
-Rock Pillar Remesh Start - *Ethan Chen*
-<br><br>
 
 ![](portfolio/ethan/Rock Pillar Remodel (End).png)
 
-Rock Pillar Remesh End - *Ethan Chen*
-<br><br>
-
-![](portfolio/ethan/Rock Pillar Remodel (End).png)
-
-Rock Pillar Remesh End - *Ethan Chen*
+Rock Pillar Remesh - *Ethan Chen*
 <br><br>
 
 ![](portfolio/ethan/Metal Pipe Retexture.png)
@@ -222,7 +212,7 @@ Remodeled Track Segment - *Ethan Chen*
 
 ![](portfolio/ethan/Island Remeshed.png)
 
-Overview of Remeshed Island - *Ethan Chen*
+Main Island Terrain & Props - *Ethan Chen*
 <br><br>
 
 <audio controls="controls">
