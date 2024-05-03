@@ -31,6 +31,14 @@ Player Character Model: Texturing - *Michael Weideman*
 Level Theme - *Ethan Chen*
 <br><br>
 
+<audio controls="controls">
+  <source type="audio/ogg" src="portfolio/ethan/cave_theme.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Cave Music - *Ethan Chen*
+<br><br>
+
 
 ![](portfolio/ethan/Island_Props.png)
 
@@ -309,14 +317,6 @@ Ship Repair SFX - *Ethan Chen*
 Victory SFX - *Ethan Chen*
 <br><br>
 
-
-<audio controls="controls">
-  <source type="audio/ogg" src="portfolio/ethan/cave_theme.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
-Cave Music - *Ethan Chen*
-<br><br>
 
 <video width="600" height="600" controls>
   <source src="portfolio/ethan/PlayerAnimationReel.mp4" type="video/mp4">
